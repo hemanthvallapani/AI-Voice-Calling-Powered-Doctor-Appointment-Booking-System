@@ -51,7 +51,7 @@
 - **Next.js 14** with App Router for modern React development
 - **TypeScript** for type-safe, maintainable code
 - **Tailwind CSS** for responsive, beautiful UI components
-- **Radix UI** for accessible, unstyled component primitives
+- **Shad CN** for accessible, unstyled component primitives
 - **React Hook Form** with Zod validation for robust forms
 
 ### **Backend & AI Services**
