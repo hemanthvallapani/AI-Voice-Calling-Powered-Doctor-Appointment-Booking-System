@@ -35,7 +35,6 @@
 ### 📞 **Universal Accessibility**
 - **Phone-Only Interface**: Works with any phone (landline or mobile)
 - **No Internet Required**: Traditional phone calls only
-- **Multi-language Support**: Built for global healthcare access
 - **Voice-First Design**: Optimized for audio-only interactions
 
 ### 🏥 **Healthcare Management**
